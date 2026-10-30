@@ -17,7 +17,7 @@ Masrur Ahmmed  ·  Blockchain Developer  ·  Frontend & Brand Designer
 ● Available for work  |  Building mecozx  |  Shipping since 2019
 ```
 
-[![Website](https://img.shields.io/badge/Website-masrur.iam.bd-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://masrur.bro.bd)
+[![Website](https://img.shields.io/badge/Website-masrur.bro.bd-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://masrur.bro.bd)
 [![Status](https://img.shields.io/badge/Status-Online-00FF9C?style=for-the-badge)](https://masrur.iam.bd)
 
 </div>
